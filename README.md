@@ -1,4 +1,4 @@
 # Python_Lessons
 
-My Name is Emile-Forbes and I am a data science graduate. 
+My Name is Emile and I love data science, data engineering, machine learning and AI.
 Will Keep you posted on my journey
